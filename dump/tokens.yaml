@@ -1,0 +1,14 @@
+user_1:
+  AES_KEY: ###
+  ANDROID_OS: android 6.0
+  DEVICE_ID: 8edbe110a4079830
+  IS_ACTIVE: true
+  REMAIN_COUNT: 100
+  TOKEN: ###
+user_2:
+  AES_KEY: ###
+  ANDROID_OS: android 6.0
+  DEVICE_ID: 8edbe110a4079830
+  IS_ACTIVE: true
+  REMAIN_COUNT: 100
+  TOKEN: ###
